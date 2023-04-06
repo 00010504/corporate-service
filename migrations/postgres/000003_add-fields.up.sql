@@ -1,0 +1,2 @@
+INSERT INTO "receipt_field"("id", "name", "name_tr", "block_id", "created_by" ) VALUES
+    ('d4073f44-b6b8-4309-b981-a5460cf8c559', 'qr code', '{"en":"QR Code", "ru":"QR код", "uz":"QR kod"}', 'a7655040-2942-4b61-9771-847f4f48a33d', '9a2aa8fe-806e-44d7-8c9d-575fa67ebefd');
